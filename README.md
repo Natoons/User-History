@@ -1,1 +1,3 @@
 # User-History
+
+User-History est un plugin Flarum qui ajoute de nouvelles fonctionnalités pour améliorer la modération et la gestion des utilisateurs sur votre forum. Ce plugin permet d'afficher sur le profil de l'utilisateur le nombre de suspensions et d'avertissements, ainsi que le nombre de réponses et de questions supprimées. Les modérateurs peuvent également utiliser ce plugin pour donner des avertissements aux utilisateurs en cas de violation des règles. Le plugin est facile à installer et à configurer, et permet une meilleure gestion des utilisateurs et des discussions sur votre forum Flarum.
